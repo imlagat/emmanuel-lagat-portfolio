@@ -1,4 +1,4 @@
-# Emmanuel Kipkorir Lagat — Personal Portfolio Website
+# Emmanuel Lagat — Personal Portfolio Website
 
 > **Positioning:** Developer. Security-Focused Thinker. Technology Builder.  
 > *"Building with purpose. Securing with intention."*
