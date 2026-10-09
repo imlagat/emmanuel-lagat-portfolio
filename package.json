@@ -1,0 +1,19 @@
+{
+  "name": "emmanuel-lagat-portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio for Emmanuel Kipkorir Lagat - Developer & Cybersecurity Enthusiast",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 3000",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "software-developer",
+    "cybersecurity",
+    "full-stack",
+    "kenya"
+  ],
+  "author": "Emmanuel Kipkorir Lagat",
+  "license": "MIT"
+}
